@@ -1,6 +1,8 @@
-langchain
-langchain-community
-langchain-chroma
-pandas
-pypdf
-fastembed
+langchain==0.1.17
+langchain-community==0.0.36
+langchain-chroma==0.1.0
+pandas==2.2.2
+pypdf==4.2.0
+fastembed==0.2.6
+streamlit==1.35.0
+gdown==4.6.0

@@ -1,0 +1,18 @@
+==>Agrupamento feito pelo LLM Llama3-7B para as emendas referentes ao artigo 52 do PL476/2018.<==
+Emendas parlamentares ao Orçamento:
+
+As emendas apresentadas buscam influenciar a alocação de recursos públicos e a política fiscal do país. Algumas delas visam garantir o cumprimento de metas específicas, enquanto outras procuram alterar a forma como os recursos são distribuídos.
+
+A Emenda ID 41600006, por exemplo, aumenta nominalmente em 20% os recursos destinados à inteligência policial e ações de prevenção da criminalidade. 
+Já a Emenda ID 41630008 busca garantir que o Ministério da Educação receba pelo menos o mesmo montante de recursos que recebeu na Lei Orçamentária de 2019, ajustado para correção inflationária.
+
+A Emenda ID 41630009 e a Emenda ID 41740015 têm como objetivo assegurar o cumprimento das metas previstas no Plano Nacional de Educação. A primeira destas emendas busca implementar o Custo Aluno Qualidade inicial (CAQi) nos termos da estratégia do Plano Nacional de Educação, enquanto a segunda procura garantir que a alocação de recursos na área de Educação seja feita com objetivo de cumprir as metas previstas no mencionado plano.
+
+A Emenda ID 50050024 prioriza os recursos destinados às Universidades Federais, Hospitais Universitários e Institutos Federais de Ensino.
+Já a Emenda ID 50370005 estabelece que não serão objeto de limitação de empenho e movimentação financeira as despesas que constituem obrigações constitucionais e legais do ente, inclusive as destinadas à educação básica.
+
+A Emenda ID 60040012 e a Emenda ID 60040014 buscam implementar o Custo Aluno Qualidade inicial (CAQi) nos termos da estratégia do Plano Nacional de Educação. A primeira destas emendas busca garantir que a alocação de recursos na área de Educação seja feita com objetivo de cumprir as metas previstas no mencionado plano, enquanto a segunda procura ampliar as dotações orçamentárias destinadas à complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação – Fundeb.
+
+Por fim, a Emenda ID 60050025 estabelece que as receitas próprias do Instituto Nacional da Propriedade Industrial (INPI) não serão destinadas à constituição de reserva de contingência.
+
+
