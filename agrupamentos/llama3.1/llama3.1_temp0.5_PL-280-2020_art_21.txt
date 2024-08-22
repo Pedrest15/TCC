@@ -1,0 +1,53 @@
+==>Agrupamento feito pelo LLM llama3.1 para as emendas referentes ao artigo 21 do PL-280-2020.
+==>Tempo de execução: 4.36686974366506 min.
+==>Número de tokens de todas as emendas juntas: 9401.
+
+==>Total de emendas: 71Aqui estão os agrupamentos semânticos para cada emenda:
+
+**EMENDA ID 41630009**
+
+* Subtema: Educação
+	+ Tema: Alocação de recursos na área de Educação
+	+ Objetivo: Cumprimento das metas previstas no Plano Nacional de Educação
+	+ Estratégia: Implantação do Custo Aluno Qualidade inicial (CAQi)
+
+**EMENDA ID 41740015**
+
+* Subtema: Educação
+	+ Tema: Alocação de recursos na área de Educação
+	+ Objetivo: Cumprimento das metas previstas no Plano Nacional de Educação
+	+ Estratégia: Implantação do Custo Aluno Qualidade inicial (CAQi), nos termos da estratégia 20.6 do Plano Nacional de Educação
+
+**EMENDA ID 50050024**
+
+* Subtema: Educação
+	+ Tema: Alocação de recursos na área de Educação
+	+ Prioridade: Universidades Federais, Hospitais Universitários e Institutos Federais de Ensino
+	+ Exclusão: Limitação de empenho e movimentação financeira para despesas constitucionais e legais
+
+**EMENDA ID 50370005**
+
+* Subtema: Censo Demográfico
+	+ Tema: Alocação de recursos para ação do Censo Demográfico
+	+ Objetivo: Garantir integridade metodológica da série histórica
+	+ Restrição: Não reduzir os recursos de maneira a comprometer a comparabilidade com edições anteriores
+
+**EMENDA ID 60040012**
+
+* Subtema: Educação
+	+ Tema: Alocação de recursos na área de Educação
+	+ Objetivo: Cumprimento das metas previstas no Plano Nacional de Educação
+	+ Estratégia: Implantação do Custo Aluno Qualidade inicial (CAQi), nos termos da estratégia 20.6 do Plano Nacional de Educação
+
+**EMENDA ID 60040014**
+
+* Subtema: Educação
+	+ Tema: Alocação de recursos na área de Educação
+	+ Objetivo: Implantação do Custo Aluno Qualidade inicial (CAQi)
+	+ Ação: Ampliar as dotações orçamentárias destinadas à complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação – Fundeb
+
+**EMENDA ID 60050025**
+
+* Subtema: Instituto Nacional da Propriedade Industrial (INPI)
+	+ Tema: Alocação de recursos do INPI
+	+ Exclusão: Destinação de receitas próprias para constituição de reserva de contingência

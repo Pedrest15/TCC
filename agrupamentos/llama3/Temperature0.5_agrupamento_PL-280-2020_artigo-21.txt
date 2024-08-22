@@ -1,0 +1,36 @@
+==>Agrupamento feito pelo LLM Llama3-7B para as emendas referentes ao artigo 21 do PL-280-2020.
+==>Tempo de execução: 11.610750154654186 min.
+==>Número de tokens de todas as emendas juntas: 9401.
+==>Total de emendas: 71.
+
+O agrupamento semântico realizado para as emendas legislativas apresentadas é o seguinte:
+
+**Educação**
+
+1. EMENDA ID 41360019: Art. 21-A. A alocação de recursos da área de Educação terá por objetivo, na Lei Orçamentária de 2020, o cumprimento das metas previstas no Plano Nacional de Educação, Lei nº 13.005, de 25 de junho de 2014.
+2. EMENDA ID 41600006: Inclua-se no texto da LDO o seguinte Art. 22. Os recursos destinados pela União ao investimento em inteligência policial e ações de prevenção da criminalidade deverão sofrer um aumento nominal da ordem de 20%, em comparação com a Lei Orçmentária de 2019.
+3. EMENDA ID 41630009: NOVO ARTIGO - A alocação de recursos na área de Educação, no Projeto e na Lei Orçamentária de 2019, terá por objetivo o cumprimento das metas previstas no Plano Nacional de Educação, aprovado pela Lei nº 13.005, de 25 de junho de 2014.
+4. EMENDA ID 41740015: Art. 21-A. A alocação de recursos na área de Educação terá por objetivo, na Lei Orçamentária de 2020, assegurar o cumprimento das metas previstas no Plano Nacional de Educação, Lei nº 13.005, de 25 de junho de 2014.
+5. EMENDA ID 60040012: Art. 21-A. A alocação de recursos na área de Educação terá por objetivo, na Lei Orçmentária de 2020, o cumprimento das metas previstas no Plano Nacional de Educação, Lei nº 13.005, de 25 de junho de 2014.
+6. EMENDA ID 60040014: Art. 21-A. Com vistas à implantação do Custo Aluno Qualidade inicial (CAQi) de que trata o Plano Nacional de Educação (Lei nº 13.005, de 25 de junho de 2014), a Lei Orçmentária de 2020 deverá ampliar, para além do mínimo previsto no art. 60, VII, do Ato das Disposições Constitucionais Transitórias, as dotações orçamentárias destinadas à complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação – Fundeb.
+7. EMENDA ID 50370005: Seção I Diretrizes Gerais (...) Art. 22. Os recursos destinados à ação do Censo Demográfico realizado em periodicidade decenal serão suficientes para garantir a integridade metodológica da série histórica, sendo vedado reduzi-los de maneira a comprometer a comparabilidade do questionário com as edições anteriores, ainda que parcialmente.
+
+**Custo Aluno Qualidade inicial (CAQi)**
+
+1. EMENDA ID 41630009: NOVO ARTIGO - A alocação de recursos na área de Educação, no Projeto e na Lei Orçmentária de 2019, terá por objetivo o cumprimento das metas previstas no Plano Nacional de Educação, aprovado pela Lei nº 13.005, de 25 de junho de 2014.
+2. EMENDA ID 60040012: Art. 21-A. A alocação de recursos na área de Educação terá por objetivo, na Lei Orçmentária de 2020, o cumprimento das metas previstas no Plano Nacional de Educação, Lei nº 13.005, de 25 de junho de 2014.
+3. EMENDA ID 60040014: Art. 21-A. Com vistas à implantação do Custo Aluno Qualidade inicial (CAQi) de que trata o Plano Nacional de Educação (Lei nº 13.005, de 25 de junho de 2014), a Lei Orçmentária de 2020 deverá ampliar, para além do mínimo previsto no art. 60, VII, do Ato das Disposições Constitucionais Transitórias, as dotações orçamentárias destinadas à complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação – Fundeb.
+
+**Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação (Fundeb)**
+
+1. EMENDA ID 60040014: Art. 21-A. Com vistas à implantação do Custo Aluno Qualidade inicial (CAQi) de que trata o Plano Nacional de Educação (Lei nº 13.005, de 25 de junho de 2014), a Lei Orçmentária de 2020 deverá ampliar, para além do mínimo previsto no art. 60, VII, do Ato das Disposições Constitucionais Transitórias, as dotações orçamentárias destinadas à complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação – Fundeb.
+
+**Censo Demográfico**
+
+1. EMENDA ID 50370005: Seção I Diretrizes Gerais (...) Art. 22. Os recursos destinados à ação do Censo Demográfico realizado em periodicidade decenal serão suficientes para garantir a integridade metodológica da série histórica, sendo vedado reduzi-los de maneira a comprometer a comparabilidade do questionário com as edições anteriores, ainda que parcialmente.
+
+**Outros**
+
+1. EMENDA ID 60040012: Art. 21-A. A alocação de recursos na área de Educação terá por objetivo, na Lei Orçmentária de 2020, o cumprimento das metas previstas no Plano Nacional de Educação, Lei nº 13.005, de 25 de junho de 2014.
+2. EMENDA ID 50370005: Seção I Diretrizes Gerais (...) Art. 22. Os recursos destinados à ação do Censo Demográfico realizado em periodicidade decenal serão suficientes para garantir a integridade metodológica da série histórica, sendo vedado reduzi-los de maneira a comprometer a comparabilidade do questionário com as edições anteriores, ainda que parcialmente.
+3. EMENDA ID 60050025: Art. 21-A. A lei não estabelece regras para o uso dos recursos públicos destinados à Educação.

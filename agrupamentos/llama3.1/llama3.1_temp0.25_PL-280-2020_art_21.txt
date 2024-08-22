@@ -1,0 +1,42 @@
+==>Agrupamento feito pelo LLM llama3.1 para as emendas referentes ao artigo 21 do PL-280-2020.
+==>Tempo de execução: 52.52949531078339 min.
+==>Número de tokens de todas as emendas juntas: 9401.
+
+==>Total de emendas: 71Aqui estão os agrupamentos semânticos dos textos fornecidos:
+
+**EMENDA ID 41630009:**
+
+* **Objetivo:** Alocação de recursos na área de Educação.
+* **Metas:** Cumprimento das metas previstas no Plano Nacional de Educação (PNE).
+* **Estratégia:** Implantação do Custo Aluno Qualidade inicial (CAQi), nos termos da estratégia 20.6 do PNE.
+
+**EMENDA ID 41740015:**
+
+* **Objetivo:** Alocação de recursos na área de Educação.
+* **Metas:** Cumprimento das metas previstas no Plano Nacional de Educação (PNE).
+* **Estratégia:** Implantação do Custo Aluno Qualidade inicial (CAQi), nos termos da estratégia 20.6 do PNE.
+
+**EMENDA ID 50050024:**
+
+* **Priorização:** Alocação de recursos para a área de Educação, com priorização para Universidades Federais, Hospitais Universitários e Institutos Federais de Ensino.
+* **Exclusão:** Despesas que constituem obrigações constitucionais e legais do ente, inclusive as destinadas à educação básica, às universidades públicas federais e aos institutos federais de educação.
+
+**EMENDA ID 50370005:**
+
+* **Objetivo:** Garantir a integridade metodológica da série histórica do Censo Demográfico.
+* **Restrição:** Não reduzir os recursos destinados ao Censo Demográfico, para não comprometer a comparabilidade do questionário com as edições anteriores.
+
+**EMENDA ID 60040012:**
+
+* **Objetivo:** Alocação de recursos na área de Educação.
+* **Metas:** Cumprimento das metas previstas no Plano Nacional de Educação (PNE).
+* **Estratégia:** Implantação do Custo Aluno Qualidade inicial (CAQi), nos termos da estratégia 20.6 do PNE.
+
+**EMENDA ID 60040014:**
+
+* **Objetivo:** Ampliar as dotações orçamentárias destinadas à complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação – Fundeb.
+* **Justificativa:** Com vistas à implantação do Custo Aluno Qualidade inicial (CAQi) de que trata o Plano Nacional de Educação.
+
+**EMENDA ID 60050025:**
+
+* **Restrição:** Não destinar as receitas próprias do Instituto Nacional da Propriedade Industrial (INPI) para a constituição de reserva de contingência.

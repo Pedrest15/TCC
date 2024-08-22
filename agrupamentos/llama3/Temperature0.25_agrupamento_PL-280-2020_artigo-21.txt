@@ -1,0 +1,38 @@
+==>Agrupamento feito pelo LLM Llama3-7B para as emendas referentes ao artigo 21 do PL-280-2020.
+==>Tempo de execução: 3.157020433743795 min.
+==>Número de tokens de todas as emendas juntas: 9401.
+==>Total de emendas: 71.
+
+Após analisar as emendas, identifiquei os seguintes agrupamentos semânticos:
+
+**Agrupamento 1: Educação**
+
+* EMENDA ID 41360019
+* EMENDA ID 41600004 (parcial)
+* EMENDA ID 41630009
+* EMENDA ID 41740015
+* EMENDA ID 60040012
+* EMENDA ID 60040014
+
+Essas emendas se referem à alocação de recursos para a área de Educação, com foco no cumprimento das metas previstas no Plano Nacional de Educação e na implantação do Custo Aluno Qualidade inicial (CAQi).
+
+**Agrupamento 2: Controle sobre despesas**
+
+* EMENDA ID 41550009
+* EMENDA ID 50370005
+
+Essas emendas se referem ao controle sobre as despesas, com foco na limitação do uso de recursos para publicidade e propaganda governamental (EMENDA ID 41550009) e na garantia da integridade metodológica do Censo Demográfico (EMENDA ID 50370005).
+
+**Agrupamento 3: Priorização de recursos**
+
+* EMENDA ID 41600006
+* EMENDA ID 50050024
+
+Essas emendas se referem à priorização de recursos para investimentos em inteligência policial e ações de prevenção da criminalidade (EMENDA ID 41600006) e para Universidades Federais, Hospitais Universitários e Institutos Federais de Ensino (EMENDA ID 50050024).
+
+**Agrupamento 4: Restrições**
+
+* EMENDA ID 60040012
+* EMENDA ID 60040014
+
+Essas emendas se referem à restrição sobre a utilização de receitas próprias do Instituto Nacional da Propriedade Industrial (INPI) para constituir reserva de contingência (EMENDA ID 60040025).
