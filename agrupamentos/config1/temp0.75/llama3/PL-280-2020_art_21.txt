@@ -1,0 +1,35 @@
+###############   Agrupamento Semântico   ###############
+==>PL: PL-280-2020.
+==>Artigo: 21.
+==>LLM: llama3.
+==>Total de emendas: 71.
+==>Número de tokens: 8561.
+==>Chain: simple_chain.
+==>Tempo de execução: 3.35 min.
+#########################################################
+
+Após analisar as emendas, é possível agrupá-las por temas semânticos:
+
+**Educação**
+
+* EMENDA ID 41630008: Assegurar o cumprimento das metas previstas no Plano Nacional de Educação e implantar o Custo Aluno Qualidade inicial (CAQi).
+* EMENDA ID 41740015: Cumprir as metas previstas no Plano Nacional de Educação e implementar o CAQi.
+* EMENDA ID 60040012: Cumprir as metas previstas no Plano Nacional de Educação e implementar o CAQi.
+* EMENDA ID 60040014: Ampliar as dotações orçamentárias destinadas à complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação – Fundeb, com vistas à implantação do CAQi.
+
+**Inteligência Policial e Prevenção da Criminalidade**
+
+* EMENDA ID 119700DO: Aumentar os recursos destinados pela União ao investimento em inteligência policial e ações de prevenção da criminalidade em 20%, em comparação com a Lei Orçamentária de 2019.
+
+**Estatística e Planejamento**
+
+* EMENDA ID 50370005: Garantir a integridade metodológica do Censo Demográfico, vedando reduções que comprometam a comparabilidade do questionário com as edições anteriores.
+
+**Administração Pública e Finanças**
+
+* EMENDA ID 50050024: Priorizar recursos para Universidades Federais, Hospitais Universitários e Institutos Federais de Ensino.
+* EMENDA ID 60040014: Ampliar as dotações orçamentárias destinadas à complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação – Fundeb.
+
+**Restrições**
+
+* EMENDA ID 60050025: Não utilizar as receitas próprias do Instituto Nacional da Propriedade Industrial (INPI) para constituir reserva de contingência.

@@ -1,0 +1,40 @@
+###############   Agrupamento Semântico   ###############
+==>PL: PL-280-2020.
+==>Artigo: 21.
+==>LLM: llama3.
+==>Total de emendas: 71.
+==>Número de tokens: 6314.
+==>Chain: simple_chain.
+==>Tempo de execução: 9.17 min.
+#########################################################
+
+Aqui está o agrupamento semântico das emendas:
+
+**Educação**
+
+* EMENDA ID 119700: Ato Disposições Constitucionais Transitórias (sem conteúdo específico)
+* EMENDA ID 41360019: Art. 21-A - Alocação de recursos para Educação, objetivo cumprimento metas previstas Plano Nacional Educação
+* EMENDA ID 41630008: Art. 21 - Destinação de recursos para Ministério da Educação, montante mínimo igual ao aprovado em Lei Orçamentária 2019
+* EMENDA ID 41600004: Seção I Diretrizes Gerais - Recursos destinados ao Censo Demográfico devem garantir integridade metodológica e comparabilidade histórica
+* EMENDA ID 41740015: Art. 21-A - Alocação de recursos para Educação, objetivo cumprimento metas previstas Plano Nacional Educação
+* EMENDA ID 60040012: Art. 21-A - Alocação de recursos para Educação, objetivo cumprimento metas previstas Plano Nacional Educação
+* EMENDA ID 60040014: Art. 21-A - Ampliação do mínimo previsto em art. 60 VII Ato Disposições Constitucionais Transitórias, destinado à complementação do União Fundo Manutenção Desenvolvimento Educação Básica Valorização Profissionais Educação Fundeb
+* EMENDA ID 50050024: Art. 21-B - Priorização de recursos para Universidades Federais, Hospitais Universitários e Institutos Federais
+
+**Orçamento**
+
+* EMENDA ID 41550009: Art. 22 - Valores relativos à publicidade e propaganda governamental devem corresponder a 70% da Lei Orçamentária 2019
+* EMENDA ID 41600006: Inclusão de texto LDO para União investimento inteligência policial, ações prevenção criminalidade
+
+**Censo Demográfico**
+
+* EMENDA ID 41600004: Seção I Diretrizes Gerais - Recursos destinados ao Censo Demográfico devem garantir integridade metodológica e comparabilidade histórica
+* EMENDA ID 50370005: Seção I Diretrizes Gerais - Recursos destinados ao Censo Demográfico devem ser suficientes para garantir integridade metodológica e série histórica
+
+**Inteligência Policial**
+
+* EMENDA ID 41600006: Inclusão de texto LDO para União investimento inteligência policial, ações prevenção criminalidade
+
+**Reserva Contingência**
+
+* EMENDA ID 60050025: Art. 21-A - As receitas próprias do Instituto Nacional Propriedade Industrial (INPI) destinados à constituição de reserva contingência

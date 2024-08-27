@@ -1,0 +1,46 @@
+###############   Agrupamento Semântico   ###############
+==>PL: PL-280-2020.
+==>Artigo: 21.
+==>LLM: llama3.
+==>Total de emendas: 71.
+==>Número de tokens: 6314.
+==>Chain: simple_chain.
+==>Tempo de execução: 70.70 min.
+#########################################################
+
+O agrupamento semântico é um processo de categorizar textos em grupos com base em suas características semânticas, ou seja, sua relação com o significado e a estrutura do texto. Com os dados fornecidos, pode-se identificar diferentes grupos de texto com base nas seguintes categorias:
+
+1. **Emendas relacionadas à Educação**:
+	* EMENDA ID 119700
+	* EMENDA ID 41360019
+	* EMENDA ID 41630008
+	* EMENDA ID 41740015
+	* EMENDA ID 60040012
+	* EMENDA ID 60040014
+
+Essas emendas discutem a alocação de recursos para a Educação, objetivando o cumprimento de metas previstas no Plano Nacional de Educação e Lei nº 13.005/2014.
+
+2. **Emendas relacionadas ao Censo Demográfico**:
+	* EMENDA ID 41600004
+	* EMENDA ID 50370005
+
+Essas emendas se referem à realização do Censo Demográfico e à garantia da integridade metodológica e comparabilidade histórica dos resultados.
+
+3. **Emendas relacionadas ao Orçamento**:
+	* EMENDA ID 41550009
+	* EMENDA ID 41600006
+
+Essas emendas discutem a alocação de recursos para o Projeto Lei Orçamentária 2020 e a destinação de valores relativos à publicidade e propaganda governamental.
+
+4. **Emendas relacionadas à Inteligência Policial**:
+	* EMENDA ID 41600006
+
+Essa emenda se refere ao aumento nominal dos recursos destinados à União para investimento em inteligência policial e ações de prevenção da criminalidade.
+
+5. **Outras Emendas**:
+	* EMENDA ID 50050024
+	* EMENDA ID 60040014
+
+Essas emendas tratam de diferentes assuntos, como a priorização de recursos para Universidades Federais e Hospitais Universitários (EMENDA ID 50050024) e a ampliação da dotação orçamentária destinada à complementação do Fundo Manutenção Desenvolvimento Educação Básica Valorização Profissionais Educação Fundeb (EMENDA ID 60040014).
+
+Observa-se que muitas das emendas estão relacionadas à Educação, o que sugere que essa é uma área prioritária para o governo. Além disso, as emendas também abordam temas como o Censo Demográfico, o Orçamento e a Inteligência Policial.

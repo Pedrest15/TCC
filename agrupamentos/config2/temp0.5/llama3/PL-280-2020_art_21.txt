@@ -1,0 +1,43 @@
+###############   Agrupamento Semântico   ###############
+==>PL: PL-280-2020.
+==>Artigo: 21.
+==>LLM: llama3.
+==>Total de emendas: 71.
+==>Número de tokens: 6314.
+==>Chain: simple_chain.
+==>Tempo de execução: 6.55 min.
+#########################################################
+
+Aqui está o agrupamento semântico das emendas:
+
+**Educação**
+
+* EMENDA ID 119700: Ato Disposições Constitucionais Transitórias (referente a Educação)
+* EMENDA ID 41630009: NOVO ARTIGO - A alocação recursos Educação Projeto Lei Orçamentária 2019 objetivo cumprimento metas previstas Plano Nacional Educação
+* EMENDA ID 41740015: Art. 21-A. A alocação recursos Educação objetivo Lei Orçamentária 2020 assegurar cumprimento metas previstas Plano Nacional Educação
+* EMENDA ID 50050024: Art. 21-B. Na alocação recursos Educação deverão priorizados destinados Universidades Federais Hospitais Universitários Institutos Federais Ensino
+
+**Censo Demográfico**
+
+* EMENDA ID 41600004: Seção I Diretrizes Gerais Art. 22 Os recursos destinados ação Censo Demográfico realizado periodicidade decenal suficientes garantir integridade metodológica comparabilidade histórica
+* EMENDA ID 50370005: Seção I Diretrizes Gerais Art. 22 Os recursos destinados ação Censo Demográfico realizado periodicidade decenal suficientes garantir integridade metodológica série histórica
+
+**Lei Orçamentária**
+
+* EMENDA ID 41360019: Art. 21-A. A alocação recursos Educação objetivo Lei Orçamentária 2020 cumprimento metas previstas Plano Nacional Educação
+* EMENDA ID 41630008: Art. 21 O Projeto Lei Orçamentária 2020 respectiva lei destinarão recursos despesas Ministério Educação montante mínimo igual aprovado Lei Orçamentária 2019 corrigido inciso II 1º art. 107 Ato Disposições Constitucionais Transitórias
+* EMENDA ID 60040012: Art. 21-A. A alocação recursos Educação objetivo Lei Orçamentária 2020 cumprimento metas previstas Plano Nacional Educação
+
+**Poder Executivo**
+
+* EMENDA ID 41600004: Seção I Diretrizes Gerais Art. 22 Os recursos destinados ação Censo Demográfico realizado periodicidade decenal suficientes garantir integridade metodológica comparabilidade histórica (veda o Poder Executivo destinar recursos patamar comprometa comparabilidade questionário edições anteriores parcialmente)
+
+**Recursos**
+
+* EMENDA ID 41600004: Seção I Diretrizes Gerais Art. 22 Os recursos destinados ação Censo Demográfico realizado periodicidade decenal suficientes garantir integridade metodológica comparabilidade histórica
+* EMENDA ID 41630008: Art. 21 O Projeto Lei Orçamentária 2020 respectiva lei destinarão recursos despesas Ministério Educação montante mínimo igual aprovado Lei Orçamentária 2019 corrigido inciso II 1º art. 107 Ato Disposições Constitucionais Transitórias
+* EMENDA ID 60040014: Art. 21-A. Com vistas implantação Custo Aluno Qualidade inicial CAQi trata Plano Nacional Educação Lei nº 13.005 25 junho 2014 Lei Orçamentária 2020 ampliar mínimo previsto art. 60 VII Ato Disposições Constitucionais Transitórias dotações orçamentárias destinadas complementação União Fundo Manutenção Desenvolvimento Educação Básica Valorização Profissionais Educação Fundeb
+
+**Instituto Nacional Propriedade Industrial (INPI)**
+
+* EMENDA ID 60050025: Art. 21-A. As receitas próprias Instituto Nacional Propriedade Industrial(INPI destinados constituição reserva contingência

@@ -68,4 +68,5 @@ class PydanticChain(Chain):
         self.chain = prompt | self.model | parser
 
     def ask(self, amendments: str):
+        print(type(self.chain))
         return self.chain.invoke({'amendments': Templates.CLUSTER_QUERY+amendments})

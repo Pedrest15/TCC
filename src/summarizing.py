@@ -73,20 +73,12 @@ if __name__ == '__main__':
         text.append([id, amendment])
         break
 
-    #print(Templates.CLUSTER_QUERY + amendments.text)
-    #print(text)
     pre_text = "".join([f"EMENDA ID {numero_emenda}:\n{text_tools.preprocess_text(emenda)}\n" for numero_emenda, emenda in text])
-    #summarize_text = "".join([f"RESUMO EMENDA ID {numero_emenda}:\n{text_tools.summarize(emenda)}\n" for numero_emenda, emenda in text])
+    summarize_text = "".join([f"RESUMO EMENDA ID {numero_emenda}:\n{text_tools.summarize(emenda)}\n" for numero_emenda, emenda in text])
 
-    pre_summarize_text = ""
-    for numero_emenda, emenda in text:
-        pre_summarize_text = text_tools.summarize(pre_summarize_text)
-        pre_summarize_text = text_tools.preprocess_text(emenda)
-        print(pre_summarize_text)
-        exit()
-    pre_summarize_text = "".join([f"RESUMO EMENDA ID {numero_emenda}:\n{text_tools.summarize(text_tools.preprocess_text(emenda))}\n" for numero_emenda, emenda in text])
-
-
+    pre_summarize_text = "".join([f"EMENDA ID {numero_emenda}:\n{text_tools.preprocess_text(text_tools.summarize(emenda))}\n" for numero_emenda, emenda in text])
+    print(pre_summarize_text)
+    exit()
 
     num_tokens_complete_text = text_tools.tokens_calculator(amendments.text)
     num_tokens_pre_text = text_tools.tokens_calculator(pre_text)

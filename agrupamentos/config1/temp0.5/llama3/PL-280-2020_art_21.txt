@@ -1,0 +1,44 @@
+###############   Agrupamento Semântico   ###############
+==>PL: PL-280-2020.
+==>Artigo: 21.
+==>LLM: llama3.
+==>Total de emendas: 71.
+==>Número de tokens: 8561.
+==>Chain: simple_chain.
+==>Tempo de execução: 4.49 min.
+#########################################################
+
+Aqui está o agrupamento semântico das emendas:
+
+**Educação**
+
+* EMENDA ID 41630008: Alokacão de recursos para Educação, com objetivo de cumprir metas previstas no Plano Nacional de Educação.
+* EMENDA ID 41740015: Alokacão de recursos para Educação, com objetivo de cumprir metas previstas no Plano Nacional de Educação e implantação do Custo Aluno Qualidade inicial (CAQi).
+* EMENDA ID 60040012: Alokacão de recursos para Educação, com objetivo de cumprir metas previstas no Plano Nacional de Educação.
+* EMENDA ID 60040014: Ampliação das dotações orçamentárias destinadas à complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação – Fundeb.
+
+**Inteligência Policial**
+
+* EMENDA ID 119700DO: Aumento nominal de 20% nos recursos destinados à inteligência policial e ações de prevenção da criminalidade.
+
+**Custo Aluno Qualidade inicial (CAQi)**
+
+* EMENDA ID 41630009: Implementação do Custo Aluno Qualidade inicial (CAQi), nos termos da estratégia do Plano Nacional de Educação.
+* EMENDA ID 41740015: Implementação do Custo Aluno Qualidade inicial (CAQi), nos termos da estratégia 20.6 do Plano Nacional de Educação.
+* EMENDA ID 60040012: Implementação do Custo Aluno Qualidade inicial (CAQi), nos termos da estratégia 20.6 do Plano Nacional de Educação.
+
+**Censo Demográfico**
+
+* EMENDA ID 50370005: Garantia da integridade metodológica do Censo Demográfico, com recursos suficientes para garantir a comparabilidade do questionário com as edições anteriores.
+
+**Instituições Federais de Ensino**
+
+* EMENDA ID 50050024: Priorização de recursos para Universidades Federais, Hospitais Universitários e Institutos Federais de Ensino.
+
+**Fundeb (Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação)**
+
+* EMENDA ID 60040014: Ampliação das dotações orçamentárias destinadas à complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação – Fundeb.
+
+**Limitações**
+
+* EMENDA ID 50050024: Não será objeto de limitação de empenho e movimentação financeira as despesas que constituem obrigações constitucionais e legais do ente.
