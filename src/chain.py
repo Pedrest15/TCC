@@ -42,8 +42,8 @@ class SimpleChain(Chain):
         return self.chain.invoke(Templates.CLUSTER_QUERY + amendments)
 
 class ClusterContent(BaseModel):
-    tema: str = Field(description='Tema do agrupamento de emendas legislativas.')
-    ids_emendas: List[str] = Field(description='IDS das emendas que fazem parte do agrupamento.', unique_items=True)
+    tema: str = Field(None,description='Tema do agrupamento de emendas legislativas.')
+    ids_emendas: List[str] = Field(default_factory=list,description='IDS das emendas que fazem parte do agrupamento.', unique_items=True)
     
     class Config:
         #extra = 'allow'  # Permite campos adicionais
@@ -68,5 +68,4 @@ class PydanticChain(Chain):
         self.chain = prompt | self.model | parser
 
     def ask(self, amendments: str):
-        print(type(self.chain))
         return self.chain.invoke({'amendments': Templates.CLUSTER_QUERY+amendments})

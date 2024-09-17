@@ -1,0 +1,55 @@
+###############   Agrupamento Semântico   ###############
+==>PL: PL-280-2020.
+==>Artigo: 21.
+==>LLM: gpt-4o.
+==>Total de emendas: 71.
+==>Número de tokens: 6314.
+==>Chain: pydantic_chain.
+==>Tempo de execução: 0.0 min 15 seg.
+#########################################################
+
+Grupo: Promoção da Igualdade de Gênero e Enfrentamento à Violência contra a Mulher
+	Emenda ID 11970007; Emenda ID 30870008; Emenda ID 40700010; Emenda ID 40700018; Emenda ID 41300029
+
+Grupo: Educação e Plano Nacional de Educação
+	Emenda ID 14080004; Emenda ID 14080007; Emenda ID 14080014; Emenda ID 14080026; Emenda ID 14510007; Emenda ID 17750017; Emenda ID 21520004; Emenda ID 25340001; Emenda ID 26930007; Emenda ID 26930009; Emenda ID 27050006; Emenda ID 27190006; Emenda ID 27190013; Emenda ID 27780001; Emenda ID 28550004; Emenda ID 29090003; Emenda ID 30510008; Emenda ID 30870009; Emenda ID 37020011; Emenda ID 37250006; Emenda ID 37250007; Emenda ID 37250018; Emenda ID 37420004; Emenda ID 37420010; Emenda ID 38050007; Emenda ID 38860013; Emenda ID 39050006; Emenda ID 39160008; Emenda ID 40610012; Emenda ID 40610014; Emenda ID 40610018; Emenda ID 41320002; Emenda ID 41360019; Emenda ID 41740015; Emenda ID 50050024; Emenda ID 60040012; Emenda ID 60040014
+
+Grupo: Reajuste do Salário Mínimo
+	Emenda ID 14510004; Emenda ID 28620005; Emenda ID 29090003; Emenda ID 38860011; Emenda ID 38860012; Emenda ID 39600027; Emenda ID 40530026; Emenda ID 40910009
+
+Grupo: Proteção de Pessoas com Deficiência e Idosos
+	Emenda ID 28730019
+
+Grupo: Saúde Pública
+	Emenda ID 29250011
+
+Grupo: Segurança Pública e Fluxo Migratório
+	Emenda ID 26700004
+
+Grupo: Promoção da Igualdade Racial
+	Emenda ID 39160014; Emenda ID 39160015
+
+Grupo: Cultura e Financiamento de Empreendedores Culturais
+	Emenda ID 39160007; Emenda ID 40390005
+
+Grupo: Censo Demográfico
+	Emenda ID 41600004; Emenda ID 50370005
+
+Grupo: Infraestrutura e Geração de Empregos
+	Emenda ID 40530004
+
+Grupo: Pesca e Aquicultura
+	Emenda ID 41280001
+
+Grupo: Bolsas de Estudo e Pós-Graduação
+	Emenda ID 27190007
+
+Grupo: Financiamento de Estudos e Projetos
+	Emenda ID 41250004
+
+Grupo: Publicidade e Propaganda Governamental
+	Emenda ID 41550009
+
+Grupo: Recursos para o INPI
+	Emenda ID 60050025
+

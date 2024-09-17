@@ -1,0 +1,31 @@
+###############   Agrupamento Semântico   ###############
+==>PL: PL-280-2020.
+==>Artigo: 21.
+==>LLM: gpt-4o.
+==>Total de emendas: 71.
+==>Número de tokens: 8561.
+==>Chain: pydantic_chain.
+==>Tempo de execução: 0.0 min 33 seg.
+#########################################################
+
+Grupo: Promoção da Igualdade de Gênero e Enfrentamento à Violência contra a Mulher
+	Emenda ID 11970007; Emenda ID 30870008; Emenda ID 40610020; Emenda ID 40700010; Emenda ID 40700018; Emenda ID 41300029
+
+Grupo: Recursos para Educação e Ministério da Educação com base no Plano Nacional de Educação
+	Emenda ID 14080004; Emenda ID 14080007; Emenda ID 14080014; Emenda ID 14080026; Emenda ID 14510007; Emenda ID 17750017; Emenda ID 21520004; Emenda ID 25340001; Emenda ID 26700004; Emenda ID 26930007; Emenda ID 26930009; Emenda ID 27050006; Emenda ID 27190013; Emenda ID 27780001; Emenda ID 28550004; Emenda ID 29090003; Emenda ID 30870009; Emenda ID 37020011; Emenda ID 37250018; Emenda ID 39050006; Emenda ID 41320002
+
+Grupo: Salário Mínimo e Políticas de Valorização
+	Emenda ID 14510004; Emenda ID 28620005; Emenda ID 29090003; Emenda ID 38860012; Emenda ID 40390005
+
+Grupo: Implantação do Custo Aluno Qualidade (CAQi) e Fundeb
+	Emenda ID 26930007; Emenda ID 27050006; Emenda ID 28550004; Emenda ID 30610008; Emenda ID 37250006; Emenda ID 37250007; Emenda ID 38050007; Emenda ID 41630009; Emenda ID 41740015; Emenda ID 60040012
+
+Grupo: Ajustes ao Valor do Salário Mínimo com Base em Indicadores Econômicos
+	Emenda ID 29090003; Emenda ID 39600027; Emenda ID 40910009; Emenda ID 41860002
+
+Grupo: Recursos para Outras Ações e Políticas
+	Emenda ID 28770019; Emenda ID 29250011; Emenda ID 40530004; Emenda ID 41600004; Emenda ID 50630028
+
+Grupo: Censo Demográfico
+	Emenda ID 41600004; Emenda ID 50370005
+

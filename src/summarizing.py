@@ -8,7 +8,7 @@ from nltk.corpus import stopwords
 import spacy
 from spacy.lang.pt.stop_words import STOP_WORDS
 
-from models import Templates, ModelsOllama
+from models import Templates, Models, EmbModel
 
 #import nltk
 #nltk.download('punkt')
@@ -41,13 +41,19 @@ class Text:
 
         return preprocessed_text
     
+    def embed(self, text):
+        return self.nlp(text).vector
+    
+    def embed_vector_len(self):
+        return self.nlp.vocab.vectors_length
+    
     def tokens_calculator(self, text:str):
         encoding = tiktoken.get_encoding(self.encoding_name)
 
         return len(encoding.encode(text))
 
-    def summarize(self, text:str) -> str:
-        model = ModelsOllama.connect(ModelsOllama.LLAMA3,0)
+    def summarize(self, text:str, model_name) -> str:
+        model = Models().connect(model_name=model_name,temperature=0)
         parser = StrOutputParser()
         prompt = PromptTemplate(
             template=Templates.SUMMARIZE_TEMPLATE,
@@ -59,38 +65,5 @@ class Text:
 
         return response
 
-if __name__ == '__main__':
-    from amendments import Amendments
-    PL = "PL-280-2020"
-    num_article = 21
-    arq_name = f"../arqs_base/emendas_{PL}_artigo{num_article}"
 
-    amendments = Amendments(pl=PL,article=num_article,arq_name=arq_name)
-    text_tools = Text()
-
-    text = []
-    for id, amendment in zip(amendments.df['NUMEROEMENDA'], amendments.df['TEXTOPROPOSTOEMENDA']):
-        text.append([id, amendment])
-        break
-
-    pre_text = "".join([f"EMENDA ID {numero_emenda}:\n{text_tools.preprocess_text(emenda)}\n" for numero_emenda, emenda in text])
-    summarize_text = "".join([f"RESUMO EMENDA ID {numero_emenda}:\n{text_tools.summarize(emenda)}\n" for numero_emenda, emenda in text])
-
-    pre_summarize_text = "".join([f"EMENDA ID {numero_emenda}:\n{text_tools.preprocess_text(text_tools.summarize(emenda))}\n" for numero_emenda, emenda in text])
-    print(pre_summarize_text)
-    exit()
-
-    num_tokens_complete_text = text_tools.tokens_calculator(amendments.text)
-    num_tokens_pre_text = text_tools.tokens_calculator(pre_text)
-    #num_tokens_summarize_text = text_tools.tokens_calculator(summarize_text)
-    num_tokens_pre_summarize_text = text_tools.tokens_calculator(pre_summarize_text)
-    
-    print(f"=>Tokens texto todo: {num_tokens_complete_text}")
-    print(f"=>Tokens texto pré processado: {num_tokens_pre_text}")
-    #print(f"=>Tokens resumo: {num_tokens_summarize_text}")
-    print(f"=>Tokens resumo pré processado: {num_tokens_pre_summarize_text}")
-
-    #print(f"=>pré: {Templates.CLUSTER_QUERY+pre_text}\n\n")
-    #print(f"=>resumo: {Templates.CLUSTER_QUERY+summarize_text}\n\n")
-    print(f"=>resumo pré: {Templates.CLUSTER_QUERY+pre_summarize_text}")
 

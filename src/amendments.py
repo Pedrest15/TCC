@@ -10,7 +10,7 @@ class Amendments:
         self.text = self.__load_amendments_str()
 
     def __load_amendments_df(self,arq_name:str) -> pd.DataFrame:
-        return pd.read_csv(arq_name+".csv")
+        return pd.read_csv(arq_name + ".csv")
     
     def __load_amendments_str(self) -> str:
         try:
@@ -29,9 +29,9 @@ class Amendments:
 
         return pre_amendments
     
-    def summarize(self) -> str:
+    def summarize(self, model_name) -> str:
         text_tools = Text()
-        summarize_text = "".join([f"RESUMO EMENDA ID {numero_emenda}:\n{text_tools.summarize(emenda)}\n" for numero_emenda, emenda in zip(self.df['NUMEROEMENDA'], self.df['TEXTOPROPOSTOEMENDA'])])
+        summarize_text = "".join([f"RESUMO EMENDA ID {numero_emenda}:\n{text_tools.summarize(text=emenda, model_name=model_name)}\n" for numero_emenda, emenda in zip(self.df['NUMEROEMENDA'], self.df['TEXTOPROPOSTOEMENDA'])])
 
         return summarize_text
     
@@ -40,3 +40,34 @@ class Amendments:
         pre_summarize_text = "".join([f"RESUMO EMENDA ID {numero_emenda}:\n{text_tools.preprocess_text(text_tools.summarize(emenda))}\n" for numero_emenda, emenda in zip(self.df['NUMEROEMENDA'], self.df['TEXTOPROPOSTOEMENDA'])])
 
         return pre_summarize_text
+
+    def get_amendments_text(self):
+        try:
+            text_tools = Text()
+            text = "".join(f"{text_tools.preprocess_text(text_proposto_emenda)} " for text_proposto_emenda in self.df['TEXTOPROPOSTOEMENDA'])
+            #text = "".join(f"{text_proposto_emenda} " for text_proposto_emenda in self.df['TEXTOPROPOSTOEMENDA'])
+        except MemoryError:
+            text = ""
+
+        return text
+    
+    def get_amendment(self, id:int, route:int):
+        try:
+            #text_tools = Text()
+            text = self.df.loc[self.df['NUMEROEMENDA'] == id, 'TEXTOPROPOSTOEMENDA'].iloc[0]
+
+            if route == 2:
+                text_tools = Text()
+                text = text_tools.preprocess_text(text)
+            elif route == 3:
+                text_tools = Text()
+                text = text_tools.summarize(text)
+            elif route == 4:
+                text_tools = Text()
+                text = text_tools.preprocess_text(text_tools.summarize(text))
+
+            return text
+        
+        except Exception as err:
+            print(err)
+

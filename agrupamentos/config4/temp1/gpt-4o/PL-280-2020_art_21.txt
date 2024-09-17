@@ -1,0 +1,40 @@
+###############   Agrupamento Semântico   ###############
+==>PL: PL-280-2020.
+==>Artigo: 21.
+==>LLM: gpt-4o.
+==>Total de emendas: 71.
+==>Número de tokens: 6314.
+==>Chain: pydantic_chain.
+==>Tempo de execução: 0.0 min 7 seg.
+#########################################################
+
+Grupo: Promoção da Igualdade de Gênero
+	Emenda ID 11970007; Emenda ID 30870008; Emenda ID 40700018; Emenda ID 40830020
+
+Grupo: Educação e Plano Nacional de Educação (PNE)
+	Emenda ID 14080004; Emenda ID 14080014; Emenda ID 14080026; Emenda ID 26930007; Emenda ID 27050006; Emenda ID 37250006; Emenda ID 37250007; Emenda ID 38050007; Emenda ID 40610012; Emenda ID 41360019; Emenda ID 50050024
+
+Grupo: Recursos para o Ministério da Educação
+	Emenda ID 14080007; Emenda ID 14510007; Emenda ID 17750017; Emenda ID 25340001; Emenda ID 36770009; Emenda ID 37250018; Emenda ID 38860013; Emenda ID 40830014
+
+Grupo: Reajuste de Salário Mínimo
+	Emenda ID 14510004; Emenda ID 28620005; Emenda ID 39090003; Emenda ID 40300027; Emenda ID 40910009
+
+Grupo: Diversidade e Inclusão
+	Emenda ID 28730019; Emenda ID 39160014; Emenda ID 39160015
+
+Grupo: Valorização da Educação Básica e FUNDEB
+	Emenda ID 26930009; Emenda ID 30870007; Emenda ID 41740015
+
+Grupo: Apoio a Universidades e Hospitais Federais
+	Emenda ID 50050024
+
+Grupo: Infraestrutura e Desenvolvimento Regional
+	Emenda ID 32570009
+
+Grupo: Ações em Segurança Pública e Migração
+	Emenda ID 26700004
+
+Grupo: Suicídio e Automutilação
+	Emenda ID 37420004
+
