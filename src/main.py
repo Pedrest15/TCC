@@ -1,5 +1,6 @@
 from routes import RoutesConfig
 from score import CV_Coherence, Score
+from files import Files
 from chart import create_chart
 
 def choose_route():
@@ -21,11 +22,11 @@ def choose_model():
     print("1- llama3")
     print("2- llama3.1")
     print("3- gpt4o")
-    print("4- gpt3")
+    print("4- gpt-4o-mini")
     print()
     model_id = int(input(""))
 
-    models = ["llama3", "llama3.1", "gpt-4o", "gpt-3"]
+    models = ["llama3", "llama3.1", "gpt-4o", "gpt-4o-mini"]
 
     return models[model_id-1]
 
@@ -52,9 +53,12 @@ def main():
 
     print(precision)
 
-    create_chart(pl=PL, article=num_article, data=precision, metric_name='Precision')
-    create_chart(pl=PL, article=num_article, data=recall, metric_name='Recall')
-    create_chart(pl=PL, article=num_article, data=f1, metric_name='F1')
+    Files.generate_score_file(model=model, PL=PL, num_article=num_article, route_id=route, 
+                              precision=precision, recall=recall, f1=f1)
+
+    create_chart(pl=PL, article=num_article, data=precision, metric_name='Precision', model=model, color='blue', config=route)
+    create_chart(pl=PL, article=num_article, data=recall, metric_name='Recall', model=model, color='orange', config=route)
+    create_chart(pl=PL, article=num_article, data=f1, metric_name='F1', model=model, color='green', config=route)
 
 if __name__ == '__main__':
     main()

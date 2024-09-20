@@ -31,3 +31,30 @@ class Files:
                 f.write(f"\tEmenda ID {'; Emenda ID '.join(group.ids_emendas)}\n\n")
 
         return
+    
+    @staticmethod
+    def generate_score_file(model:str,PL:str, num_article:int, route_id:int,
+                            precision:dict, recall:dict, f1:dict):
+        with open(f'../agrupamentos/config{route_id}/score/{model}/{PL}_art_{num_article}.txt','w', encoding='utf-8') as f:
+            f.write(f"###############   Scores   ###############\n")
+            f.write(f"==> PL: {PL}.\n")
+            f.write(f"==> Artigo: {num_article}.\n")
+            f.write(f"==> LLM: {model}.\n")
+            f.write(f"==> Config: {route_id}.\n")
+            f.write(f"#########################################################\n\n")
+
+            f.write(f"Precisão:\n")
+            f.write(str(precision))
+            f.write("\n\n")
+
+            f.write(f"Recall:\n")
+            f.write(str(recall))
+            f.write("\n\n")
+
+            f.write(f"F1:\n")
+            f.write(str(f1))
+
+        return
+    
+
+

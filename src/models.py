@@ -30,7 +30,7 @@ class EmbModel:
 class Models:
     llama_models = ["llama3","llama3.1"]
 
-    openAI_models = ["gpt-4o","gpt-4-turbo","gpt-3","gpt-4","gpt-3.5-turbo"]
+    openAI_models = ["gpt-4o","gpt-4-turbo","gpt-3","gpt-4","gpt-3.5-turbo","gpt-4o-mini"]
 
     def connect(self, model_name, temperature):
         if model_name in self.llama_models:
