@@ -61,7 +61,7 @@ class RoutesConfig:
     
     def config2(self, amendments:Amendments, text_tools:Text):
         """
-            Config2: Fluxo de chain com travas de Pydantic com texto proposto das emendas pre-processado.
+            Config2: Fluxo de chain com travas de Pydantic com texto proposto das emendas pre-processadas.
         """
         input_text = amendments.pre_process_text()
         num_tokens = text_tools.tokens_calculator(input_text)

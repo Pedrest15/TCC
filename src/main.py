@@ -6,10 +6,10 @@ from chart import create_chart
 def choose_route():
     print("################   Agrupamento Semântico de Emendas Parlamentares   ################")
     print()
-    print("1- Fluxo de chain com texto proposto das emendas completo.")
-    print("2- Fluxo de chain com texto proposto das emendas pre-processado.")
-    print("3- Fluxo de chain com texto proposto das emendas resumidas.")
-    print("4- Fluxo de chain com texto proposto das emendas resumidas e pre-processadas.")
+    print("1- Fluxo com texto proposto das emendas completo.")
+    print("2- Fluxo com texto proposto das emendas pre-processado.")
+    print("3- Fluxo com texto proposto das emendas resumidas.")
+    print("4- Fluxo com texto proposto das emendas resumidas e pre-processadas.")
     print()
     route = int(input("Qual configuração de rota você gostaria de executar? "))
 
