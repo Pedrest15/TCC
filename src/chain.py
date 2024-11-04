@@ -42,8 +42,11 @@ class SimpleChain(Chain):
         return self.chain.invoke(Templates.CLUSTER_QUERY + amendments)
 
 class ClusterContent(BaseModel):
-    tema: str = Field(None,description='Tema do agrupamento de emendas legislativas.')
-    ids_emendas: List[str] = Field(default_factory=list,description='IDS das emendas que fazem parte do agrupamento.', unique_items=True)
+    tema: str = Field(default_factory=str,
+                      description='Tema do agrupamento de emendas legislativas.')
+    ids_emendas: List[str] = Field(default_factory=list,
+                                   description='IDS das emendas que fazem parte do agrupamento.',
+                                   unique_items=True)
     
     class Config:
         #extra = 'allow'  # Permite campos adicionais

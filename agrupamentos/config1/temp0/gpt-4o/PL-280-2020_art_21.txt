@@ -5,198 +5,42 @@
 ==>Total de emendas: 71.
 ==>Número de tokens: 8561.
 ==>Chain: pydantic_chain.
-==>Tempo de execução: 0.0 min 54 seg.
+==>Tempo de execução: 0.0 min 10 seg.
 #########################################################
 
-Grupo: Igualdade de Gênero e Violência contra a Mulher
-	Emenda ID 11970007; Emenda ID 30870008; Emenda ID 40700010; Emenda ID 40700018; Emenda ID 41300029
+Grupo: Promoção da igualdade de gênero e enfrentamento à violência contra a mulher
+	Emenda ID 11970007; Emenda ID 30870008; Emenda ID 40610020; Emenda ID 40700010; Emenda ID 40700018; Emenda ID 41300029
 
-Grupo: Educação e Plano Nacional de Educação
-	Emenda ID 14080004; Emenda ID 14080007; Emenda ID 14080014; Emenda ID 14080026; Emenda ID 14510007; Emenda ID 17750017; Emenda ID 21520004; Emenda ID 25340001; Emenda ID 26930007; Emenda ID 26930009; Emenda ID 27050006; Emenda ID 27190013; Emenda ID 27780001; Emenda ID 28550004; Emenda ID 29090003; Emenda ID 30510008; Emenda ID 30870007; Emenda ID 37020011; Emenda ID 37250006; Emenda ID 37250007; Emenda ID 37250018; Emenda ID 38050007; Emenda ID 39050006; Emenda ID 40610012; Emenda ID 40610014; Emenda ID 40610018; Emenda ID 41360019; Emenda ID 41740015; Emenda ID 50050024; Emenda ID 60040012; Emenda ID 60040014
+Grupo: Alocação de recursos para a Educação e cumprimento do Plano Nacional de Educação
+	Emenda ID 14080004; Emenda ID 14080007; Emenda ID 14080014; Emenda ID 14080026; Emenda ID 17750017; Emenda ID 21520004; Emenda ID 25340001; Emenda ID 26930007; Emenda ID 26930009; Emenda ID 27050006; Emenda ID 28550004; Emenda ID 30510008; Emenda ID 30870007; Emenda ID 37250006; Emenda ID 37250007; Emenda ID 38050007; Emenda ID 39050006; Emenda ID 40610012; Emenda ID 40610014; Emenda ID 40610018; Emenda ID 41360019; Emenda ID 41740015; Emenda ID 50050024; Emenda ID 60040012; Emenda ID 60040014
 
-Grupo: Salário Mínimo e Reajustes
+Grupo: Reajuste e valorização do salário mínimo
 	Emenda ID 14510004; Emenda ID 28620005; Emenda ID 29090003; Emenda ID 38860011; Emenda ID 38860012; Emenda ID 39600027; Emenda ID 40530026; Emenda ID 40910009
 
-Grupo: Proteção Social e Direitos Humanos
+Grupo: Recursos para o Ministério da Educação
+	Emenda ID 14080007; Emenda ID 14510007; Emenda ID 17750017; Emenda ID 25340001; Emenda ID 27190013; Emenda ID 27780001; Emenda ID 30870009; Emenda ID 37020011; Emenda ID 37250018; Emenda ID 40830014; Emenda ID 41320002; Emenda ID 41630008
+
+Grupo: Recursos para ações de proteção social e igualdade racial
 	Emenda ID 28730019; Emenda ID 39160014; Emenda ID 39160015
 
-Grupo: Saúde
-	Emenda ID 29250011
+Grupo: Recursos para o Censo Demográfico e inteligência policial
+	Emenda ID 41600004; Emenda ID 41600006; Emenda ID 50370005
 
-Grupo: Cultura
+Grupo: Recursos para a saúde e infraestrutura
+	Emenda ID 29250011; Emenda ID 40530004
+
+Grupo: Recursos para cultura e empreendedorismo cultural
 	Emenda ID 39160007; Emenda ID 40390005
 
-Grupo: Segurança Pública
-	Emenda ID 26700004; Emenda ID 41600006
+Grupo: Recursos para segurança pública e apoio a regiões vulneráveis
+	Emenda ID 26700004
 
-Grupo: Defesa Civil
-	Emenda ID 25500001
+Grupo: Recursos para prevenção ao suicídio e automutilação
+	Emenda ID 37420004
 
-Grupo: Censo Demográfico
-	Emenda ID 41600004; Emenda ID 50370005
-
-Grupo: Infraestrutura e Geração de Empregos
-	Emenda ID 40530004
-
-Grupo: Pesca e Aquicultura
+Grupo: Recursos para pesca e aquicultura
 	Emenda ID 41280001
 
-Grupo: Instituições Federais de Ensino
-	Emenda ID 50050024
-
-Grupo: Promoção da Igualdade Racial
-	Emenda ID 39160014
-
-Grupo: Terras Indígenas e Quilombolas
-	Emenda ID 39160015
-
-Grupo: Valorização do Salário Mínimo
-	Emenda ID 29090003; Emenda ID 39600027; Emenda ID 40530026; Emenda ID 40910009
-
-Grupo: Promoção da Igualdade de Gênero
-	Emenda ID 11970007; Emenda ID 30870008; Emenda ID 40700010; Emenda ID 40700018; Emenda ID 41300029
-
-Grupo: Promoção da Igualdade de Gênero e Enfrentamento à Violência contra a Mulher
-	Emenda ID 11970007; Emenda ID 30870008; Emenda ID 40700010; Emenda ID 40700018; Emenda ID 41300029
-
-Grupo: Promoção da Igualdade de Gênero e Enfrentamento à Violência contra a Mulher
-	Emenda ID 11970007; Emenda ID 30870008; Emenda ID 40700010; Emenda ID 40700018; Emenda ID 41300029
-
-Grupo: Promoção da Igualdade de Gênero e Enfrentamento à Violência contra a Mulher
-	Emenda ID 11970007; Emenda ID 30870008; Emenda ID 40700010; Emenda ID 40700018; Emenda ID 41300029
-
-Grupo: Promoção da Igualdade de Gênero e Enfrentamento à Violência contra a Mulher
-	Emenda ID 11970007; Emenda ID 30870008; Emenda ID 40700010; Emenda ID 40700018; Emenda ID 41300029
-
-Grupo: Promoção da Igualdade de Gênero e Enfrentamento à Violência contra a Mulher
-	Emenda ID 11970007; Emenda ID 30870008; Emenda ID 40700010; Emenda ID 40700018; Emenda ID 41300029
-
-Grupo: Promoção da Igualdade de Gênero e Enfrentamento à Violência contra a Mulher
-	Emenda ID 11970007; Emenda ID 30870008; Emenda ID 40700010; Emenda ID 40700018; Emenda ID 41300029
-
-Grupo: Promoção da Igualdade de Gênero e Enfrentamento à Violência contra a Mulher
-	Emenda ID 11970007; Emenda ID 30870008; Emenda ID 40700010; Emenda ID 40700018; Emenda ID 41300029
-
-Grupo: Promoção da Igualdade de Gênero e Enfrentamento à Violência contra a Mulher
-	Emenda ID 11970007; Emenda ID 30870008; Emenda ID 40700010; Emenda ID 40700018; Emenda ID 41300029
-
-Grupo: Promoção da Igualdade de Gênero e Enfrentamento à Violência contra a Mulher
-	Emenda ID 11970007; Emenda ID 30870008; Emenda ID 40700010; Emenda ID 40700018; Emenda ID 41300029
-
-Grupo: Promoção da Igualdade de Gênero e Enfrentamento à Violência contra a Mulher
-	Emenda ID 11970007; Emenda ID 30870008; Emenda ID 40700010; Emenda ID 40700018; Emenda ID 41300029
-
-Grupo: Promoção da Igualdade de Gênero e Enfrentamento à Violência contra a Mulher
-	Emenda ID 11970007; Emenda ID 30870008; Emenda ID 40700010; Emenda ID 40700018; Emenda ID 41300029
-
-Grupo: Promoção da Igualdade de Gênero e Enfrentamento à Violência contra a Mulher
-	Emenda ID 11970007; Emenda ID 30870008; Emenda ID 40700010; Emenda ID 40700018; Emenda ID 41300029
-
-Grupo: Promoção da Igualdade de Gênero e Enfrentamento à Violência contra a Mulher
-	Emenda ID 11970007; Emenda ID 30870008; Emenda ID 40700010; Emenda ID 40700018; Emenda ID 41300029
-
-Grupo: Promoção da Igualdade de Gênero e Enfrentamento à Violência contra a Mulher
-	Emenda ID 11970007; Emenda ID 30870008; Emenda ID 40700010; Emenda ID 40700018; Emenda ID 41300029
-
-Grupo: Promoção da Igualdade de Gênero e Enfrentamento à Violência contra a Mulher
-	Emenda ID 11970007; Emenda ID 30870008; Emenda ID 40700010; Emenda ID 40700018; Emenda ID 41300029
-
-Grupo: Promoção da Igualdade de Gênero e Enfrentamento à Violência contra a Mulher
-	Emenda ID 11970007; Emenda ID 30870008; Emenda ID 40700010; Emenda ID 40700018; Emenda ID 41300029
-
-Grupo: Promoção da Igualdade de Gênero e Enfrentamento à Violência contra a Mulher
-	Emenda ID 11970007; Emenda ID 30870008; Emenda ID 40700010; Emenda ID 40700018; Emenda ID 41300029
-
-Grupo: Promoção da Igualdade de Gênero e Enfrentamento à Violência contra a Mulher
-	Emenda ID 11970007; Emenda ID 30870008; Emenda ID 40700010; Emenda ID 40700018; Emenda ID 41300029
-
-Grupo: Promoção da Igualdade de Gênero e Enfrentamento à Violência contra a Mulher
-	Emenda ID 11970007; Emenda ID 30870008; Emenda ID 40700010; Emenda ID 40700018; Emenda ID 41300029
-
-Grupo: Promoção da Igualdade de Gênero e Enfrentamento à Violência contra a Mulher
-	Emenda ID 11970007; Emenda ID 30870008; Emenda ID 40700010; Emenda ID 40700018; Emenda ID 41300029
-
-Grupo: Promoção da Igualdade de Gênero e Enfrentamento à Violência contra a Mulher
-	Emenda ID 11970007; Emenda ID 30870008; Emenda ID 40700010; Emenda ID 40700018; Emenda ID 41300029
-
-Grupo: Promoção da Igualdade de Gênero e Enfrentamento à Violência contra a Mulher
-	Emenda ID 11970007; Emenda ID 30870008; Emenda ID 40700010; Emenda ID 40700018; Emenda ID 41300029
-
-Grupo: Promoção da Igualdade de Gênero e Enfrentamento à Violência contra a Mulher
-	Emenda ID 11970007; Emenda ID 30870008; Emenda ID 40700010; Emenda ID 40700018; Emenda ID 41300029
-
-Grupo: Promoção da Igualdade de Gênero e Enfrentamento à Violência contra a Mulher
-	Emenda ID 11970007; Emenda ID 30870008; Emenda ID 40700010; Emenda ID 40700018; Emenda ID 41300029
-
-Grupo: Promoção da Igualdade de Gênero e Enfrentamento à Violência contra a Mulher
-	Emenda ID 11970007; Emenda ID 30870008; Emenda ID 40700010; Emenda ID 40700018; Emenda ID 41300029
-
-Grupo: Promoção da Igualdade de Gênero e Enfrentamento à Violência contra a Mulher
-	Emenda ID 11970007; Emenda ID 30870008; Emenda ID 40700010; Emenda ID 40700018; Emenda ID 41300029
-
-Grupo: Promoção da Igualdade de Gênero e Enfrentamento à Violência contra a Mulher
-	Emenda ID 11970007; Emenda ID 30870008; Emenda ID 40700010; Emenda ID 40700018; Emenda ID 41300029
-
-Grupo: Promoção da Igualdade de Gênero e Enfrentamento à Violência contra a Mulher
-	Emenda ID 11970007; Emenda ID 30870008; Emenda ID 40700010; Emenda ID 40700018; Emenda ID 41300029
-
-Grupo: Promoção da Igualdade de Gênero e Enfrentamento à Violência contra a Mulher
-	Emenda ID 11970007; Emenda ID 30870008; Emenda ID 40700010; Emenda ID 40700018; Emenda ID 41300029
-
-Grupo: Promoção da Igualdade de Gênero e Enfrentamento à Violência contra a Mulher
-	Emenda ID 11970007; Emenda ID 30870008; Emenda ID 40700010; Emenda ID 40700018; Emenda ID 41300029
-
-Grupo: Promoção da Igualdade de Gênero e Enfrentamento à Violência contra a Mulher
-	Emenda ID 11970007; Emenda ID 30870008; Emenda ID 40700010; Emenda ID 40700018; Emenda ID 41300029
-
-Grupo: Promoção da Igualdade de Gênero e Enfrentamento à Violência contra a Mulher
-	Emenda ID 11970007; Emenda ID 30870008; Emenda ID 40700010; Emenda ID 40700018; Emenda ID 41300029
-
-Grupo: Promoção da Igualdade de Gênero e Enfrentamento à Violência contra a Mulher
-	Emenda ID 11970007; Emenda ID 30870008; Emenda ID 40700010; Emenda ID 40700018; Emenda ID 41300029
-
-Grupo: Promoção da Igualdade de Gênero e Enfrentamento à Violência contra a Mulher
-	Emenda ID 11970007; Emenda ID 30870008; Emenda ID 40700010; Emenda ID 40700018; Emenda ID 41300029
-
-Grupo: Promoção da Igualdade de Gênero e Enfrentamento à Violência contra a Mulher
-	Emenda ID 11970007; Emenda ID 30870008; Emenda ID 40700010; Emenda ID 40700018; Emenda ID 41300029
-
-Grupo: Promoção da Igualdade de Gênero e Enfrentamento à Violência contra a Mulher
-	Emenda ID 11970007; Emenda ID 30870008; Emenda ID 40700010; Emenda ID 40700018; Emenda ID 41300029
-
-Grupo: Promoção da Igualdade de Gênero e Enfrentamento à Violência contra a Mulher
-	Emenda ID 11970007; Emenda ID 30870008; Emenda ID 40700010; Emenda ID 40700018; Emenda ID 41300029
-
-Grupo: Promoção da Igualdade de Gênero e Enfrentamento à Violência contra a Mulher
-	Emenda ID 11970007; Emenda ID 30870008; Emenda ID 40700010; Emenda ID 40700018; Emenda ID 41300029
-
-Grupo: Promoção da Igualdade de Gênero e Enfrentamento à Violência contra a Mulher
-	Emenda ID 11970007; Emenda ID 30870008; Emenda ID 40700010; Emenda ID 40700018; Emenda ID 41300029
-
-Grupo: Promoção da Igualdade de Gênero e Enfrentamento à Violência contra a Mulher
-	Emenda ID 11970007; Emenda ID 30870008; Emenda ID 40700010; Emenda ID 40700018; Emenda ID 41300029
-
-Grupo: Promoção da Igualdade de Gênero e Enfrentamento à Violência contra a Mulher
-	Emenda ID 11970007; Emenda ID 30870008; Emenda ID 40700010; Emenda ID 40700018; Emenda ID 41300029
-
-Grupo: Promoção da Igualdade de Gênero e Enfrentamento à Violência contra a Mulher
-	Emenda ID 11970007; Emenda ID 30870008; Emenda ID 40700010; Emenda ID 40700018; Emenda ID 41300029
-
-Grupo: Promoção da Igualdade de Gênero e Enfrentamento à Violência contra a Mulher
-	Emenda ID 11970007; Emenda ID 30870008; Emenda ID 40700010; Emenda ID 40700018; Emenda ID 41300029
-
-Grupo: Promoção da Igualdade de Gênero e Enfrentamento à Violência contra a Mulher
-	Emenda ID 11970007; Emenda ID 30870008; Emenda ID 40700010; Emenda ID 40700018; Emenda ID 41300029
-
-Grupo: Promoção da Igualdade de Gênero e Enfrentamento à Violência contra a Mulher
-	Emenda ID 11970007; Emenda ID 30870008; Emenda ID 40700010; Emenda ID 40700018; Emenda ID 41300029
-
-Grupo: Promoção da Igualdade de Gênero e Enfrentamento à Violência contra a Mulher
-	Emenda ID 11970007; Emenda ID 30870008; Emenda ID 40700010; Emenda ID 40700018; Emenda ID 41300029
-
-Grupo: Promoção da Igualdade de Gênero e Enfrentamento à Violência contra a Mulher
-	Emenda ID 11970007; Emenda ID 30870008; Emenda ID 40700010; Emenda ID 40700018; Emenda ID 41300029
-
-Grupo: Promoção da Igualdade de Gênero e Enfrent
-	Emenda ID 
+Grupo: Recursos para o Instituto Nacional da Propriedade Industrial
+	Emenda ID 60050025
 

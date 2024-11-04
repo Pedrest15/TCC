@@ -8,33 +8,33 @@
 ==>Tempo de execução: 0.0 min 11 seg.
 #########################################################
 
+Grupo: Recursos para o Ministério da Educação e cumprimento de metas do Plano Nacional de Educação
+	Emenda ID 14080004; Emenda ID 14080007; Emenda ID 14080014; Emenda ID 14080026; Emenda ID 14510007; Emenda ID 17750017; Emenda ID 21520004; Emenda ID 25340001; Emenda ID 26930007; Emenda ID 26930009; Emenda ID 27050006; Emenda ID 27190013; Emenda ID 27780001; Emenda ID 28550004; Emenda ID 29090003; Emenda ID 30510008; Emenda ID 30870007; Emenda ID 30870009; Emenda ID 37020011; Emenda ID 37250006; Emenda ID 37250007; Emenda ID 37250018; Emenda ID 37420010; Emenda ID 38050007; Emenda ID 39050006; Emenda ID 39160008; Emenda ID 40610012; Emenda ID 40610014; Emenda ID 40610018; Emenda ID 41360019; Emenda ID 41740015; Emenda ID 50050024; Emenda ID 60040012
+
+Grupo: Valorização e reajuste do salário-mínimo
+	Emenda ID 14510004; Emenda ID 28620005; Emenda ID 29090003; Emenda ID 38860011; Emenda ID 38860012; Emenda ID 39600027; Emenda ID 40530026; Emenda ID 40910009
+
 Grupo: Promoção da igualdade de gênero e enfrentamento à violência contra a mulher
 	Emenda ID 11970007; Emenda ID 30870008; Emenda ID 40610020; Emenda ID 40700010; Emenda ID 40700018; Emenda ID 41300029
 
-Grupo: Educação e Plano Nacional de Educação (PNE)
-	Emenda ID 14080004; Emenda ID 14080007; Emenda ID 14080014; Emenda ID 14080026; Emenda ID 14510007; Emenda ID 17750017; Emenda ID 21520004; Emenda ID 25340001; Emenda ID 26930007; Emenda ID 26930009; Emenda ID 27050006; Emenda ID 27190013; Emenda ID 27780001; Emenda ID 28550004; Emenda ID 30510008; Emenda ID 30870009; Emenda ID 37020011; Emenda ID 37250006; Emenda ID 37250007; Emenda ID 37250018; Emenda ID 39050006; Emenda ID 40610012; Emenda ID 40610014; Emenda ID 40610018; Emenda ID 41320002; Emenda ID 41360019; Emenda ID 41740015; Emenda ID 50050024; Emenda ID 60040012; Emenda ID 60040014
+Grupo: Execução orçamentária e destinação de recursos para saúde e infraestrutura
+	Emenda ID 25500001; Emenda ID 26700004; Emenda ID 28730019; Emenda ID 29250011; Emenda ID 40530004; Emenda ID 41550009
 
-Grupo: Reajuste do salário-mínimo
-	Emenda ID 14510004; Emenda ID 28620005; Emenda ID 29090003; Emenda ID 38860011; Emenda ID 38860012; Emenda ID 39600027; Emenda ID 40530026; Emenda ID 40910009
+Grupo: Recursos para o Censo Demográfico e políticas de segurança
+	Emenda ID 41600004; Emenda ID 41600006; Emenda ID 50370005
 
-Grupo: Saúde e políticas sociais
-	Emenda ID 28730019; Emenda ID 29250011; Emenda ID 39160014; Emenda ID 39160015
+Grupo: Recursos para a promoção da igualdade racial e demarcação de terras
+	Emenda ID 39160014; Emenda ID 39160015
 
-Grupo: Segurança pública
-	Emenda ID 26700004; Emenda ID 41600006
-
-Grupo: Cultura
+Grupo: Recursos para o Fundo Nacional de Cultura e apoio a empreendedores culturais
 	Emenda ID 39160007; Emenda ID 40390005
 
-Grupo: Infraestrutura e desenvolvimento regional
-	Emenda ID 40530004; Emenda ID 41250004
+Grupo: Recursos para o Instituto Nacional da Propriedade Industrial
+	Emenda ID 60050025
 
-Grupo: Pesca e aquicultura
+Grupo: Política de prevenção ao suicídio e automutilação
+	Emenda ID 37420004
+
+Grupo: Fomento à produção pesqueira e aquícola
 	Emenda ID 41280001
-
-Grupo: Promoção da igualdade racial e demarcação de terras indígenas
-	Emenda ID 41600004
-
-Grupo: Censo Demográfico
-	Emenda ID 50370005
 

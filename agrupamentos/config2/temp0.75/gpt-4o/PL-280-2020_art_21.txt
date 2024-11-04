@@ -5,63 +5,33 @@
 ==>Total de emendas: 71.
 ==>Número de tokens: 6314.
 ==>Chain: pydantic_chain.
-==>Tempo de execução: 0.0 min 13 seg.
+==>Tempo de execução: 0.0 min 20 seg.
 #########################################################
 
+Grupo: Recursos para Educação com foco no Plano Nacional de Educação
+	Emenda ID 14080004; Emenda ID 14080007; Emenda ID 14080014; Emenda ID 14080026; Emenda ID 17750017; Emenda ID 21520004; Emenda ID 25340001; Emenda ID 30510008; Emenda ID 40610012; Emenda ID 40610014; Emenda ID 40610018; Emenda ID 41360019; Emenda ID 41740015; Emenda ID 50050024; Emenda ID 60040012; Emenda ID 40160009
+
+Grupo: Valorização e reajuste do salário-mínimo
+	Emenda ID 14510004; Emenda ID 14510007; Emenda ID 28620005; Emenda ID 29090003; Emenda ID 38860011; Emenda ID 38860012; Emenda ID 39600027; Emenda ID 40530026; Emenda ID 40910009
+
 Grupo: Promoção da igualdade de gênero e enfrentamento à violência contra a mulher
-	Emenda ID 11970007; Emenda ID 30870008; Emenda ID 40700018; Emenda ID 41300029
+	Emenda ID 11970007; Emenda ID 30870008; Emenda ID 40610020; Emenda ID 40700010; Emenda ID 40700018; Emenda ID 41300029
 
-Grupo: Recursos para educação e cumprimento do Plano Nacional de Educação (PNE)
-	Emenda ID 14080004; Emenda ID 14080007; Emenda ID 14080014; Emenda ID 14080026; Emenda ID 14510007; Emenda ID 17750017; Emenda ID 21520004; Emenda ID 25340001; Emenda ID 26930007; Emenda ID 26930009; Emenda ID 27050006; Emenda ID 27190006; Emenda ID 27190013; Emenda ID 27780001; Emenda ID 28550004; Emenda ID 29090003; Emenda ID 30510008; Emenda ID 30870009; Emenda ID 37020011; Emenda ID 37250006; Emenda ID 37250007; Emenda ID 37250018; Emenda ID 37420010; Emenda ID 38050007; Emenda ID 38860013; Emenda ID 39050006; Emenda ID 39160008; Emenda ID 40610012; Emenda ID 40610014; Emenda ID 40610018; Emenda ID 41360019; Emenda ID 41740015; Emenda ID 50050024; Emenda ID 60040012; Emenda ID 60040014
-
-Grupo: Valorização e reajuste do salário mínimo
-	Emenda ID 14510004; Emenda ID 28620005; Emenda ID 29090003; Emenda ID 38860011; Emenda ID 38860012; Emenda ID 39600027; Emenda ID 40530026; Emenda ID 40910009
-
-Grupo: Recursos para ações de saúde
+Grupo: Despesas com saúde e assistência social
 	Emenda ID 29250011
 
-Grupo: Proteção e promoção de direitos para pessoas com deficiência e idosos
-	Emenda ID 28730019
+Grupo: Recursos para políticas culturais
+	Emenda ID 39160007; Emenda ID 39160008; Emenda ID 40390005
 
-Grupo: Política de valorização do salário mínimo
-	Emenda ID 29090003; Emenda ID 39600027; Emenda ID 40910009
-
-Grupo: Promoção da igualdade racial
-	Emenda ID 39160014; Emenda ID 39160015
-
-Grupo: Metodologia e integridade do Censo Demográfico
-	Emenda ID 41600004; Emenda ID 50370005
-
-Grupo: Recursos para infraestrutura básica e geração de empregos na RIDE
-	Emenda ID 40530004
-
-Grupo: Recursos para ações relativas à cultura
-	Emenda ID 39160007; Emenda ID 40390005
-
-Grupo: Recursos para segurança pública
+Grupo: Recursos para segurança pública e inteligência policial
 	Emenda ID 26700004; Emenda ID 41600006
 
-Grupo: Recursos para combate ao suicídio e automutilação
-	Emenda ID 37420004
+Grupo: Políticas para igualdade racial e demarcação de terras
+	Emenda ID 39160014; Emenda ID 39160015
 
-Grupo: Recursos para defesa civil
-	Emenda ID 25500001
+Grupo: Recursos para censo demográfico e ações de infraestrutura
+	Emenda ID 41600004; Emenda ID 50370005; Emenda ID 40530004
 
-Grupo: Recursos para fomento à produção pesqueira e aquícola
-	Emenda ID 41280001
-
-Grupo: Recursos para financiamento a empreendedores culturais
-	Emenda ID 39160007
-
-Grupo: Recursos para publicidade governamental
-	Emenda ID 41550009
-
-Grupo: Recursos para bolsas de estudo de pós-graduação
-	Emenda ID 27190007
-
-Grupo: Recursos para promoção de igualdade de gênero para povos indígenas
-	Emenda ID 40610020
-
-Grupo: Recursos para execução orçamentária pela CODEVASF
-	Emenda ID 41250004
+Grupo: Outras disposições orçamentárias
+	Emenda ID 27190007; Emenda ID 28730019; Emenda ID 41250004; Emenda ID 41280001; Emenda ID 60050025
 

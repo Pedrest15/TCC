@@ -30,8 +30,7 @@ class Amendments:
         return pre_amendments
     
     def summarize(self, model_name) -> str:
-        text_tools = Text()
-        summarize_text = "".join([f"RESUMO EMENDA ID {numero_emenda}:\n{text_tools.summarize(text=emenda, model_name=model_name)}\n" for numero_emenda, emenda in zip(self.df['NUMEROEMENDA'], self.df['TEXTOPROPOSTOEMENDA'])])
+        summarize_text = "".join([f"RESUMO EMENDA ID {numero_emenda}:\n{Text.summarize(text=emenda, model_name=model_name)}\n" for numero_emenda, emenda in zip(self.df['NUMEROEMENDA'], self.df['TEXTOPROPOSTOEMENDA'])])
 
         return summarize_text
     

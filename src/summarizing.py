@@ -52,7 +52,8 @@ class Text:
 
         return len(encoding.encode(text))
 
-    def summarize(self, text:str, model_name) -> str:
+    @staticmethod
+    def summarize(text:str, model_name:str) -> str:
         model = Models().connect(model_name=model_name,temperature=0)
         parser = StrOutputParser()
         prompt = PromptTemplate(

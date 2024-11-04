@@ -41,7 +41,7 @@ class Models:
         return model
 
 class Templates:
-    SIMPLE_TEMPLATE = """Você é um assistente de IA especializado no setor legislativo e com a tarefa de agrupar de forma semântica as emendas parlamentares fornecidas pelo usuário e gerar os grupos contendo o tópico desse grupo e as emendas contidas nele. 
+    SIMPLE_TEMPLATE = """Você é um assistente de IA especializado no setor legislativo e possui a tarefa de agrupar de forma semântica as emendas parlamentares fornecidas pelo usuário e gerar os grupos contendo o tópico desse grupo e as emendas contidas nele. 
     <Restrictions> 
     1. SEMPRE gere os grupos em português e enumerados de forma crescente.
     2. Cada emenda deve aparecer SOMENTE em um único grupo.

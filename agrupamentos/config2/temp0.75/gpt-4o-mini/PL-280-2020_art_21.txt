@@ -5,33 +5,27 @@
 ==>Total de emendas: 71.
 ==>Número de tokens: 6314.
 ==>Chain: pydantic_chain.
-==>Tempo de execução: 0.0 min 7 seg.
+==>Tempo de execução: 0.0 min 19 seg.
 #########################################################
 
-Grupo: Recursos para a Educação
-	Emenda ID 14080004; Emenda ID 14080007; Emenda ID 14080014; Emenda ID 14080026; Emenda ID 14510007; Emenda ID 25340001; Emenda ID 27780001; Emenda ID 28550004; Emenda ID 29090003; Emenda ID 30510008; Emenda ID 30870007; Emenda ID 30870009; Emenda ID 37020011; Emenda ID 37250006; Emenda ID 37250007; Emenda ID 37250018; Emenda ID 40610012; Emenda ID 40610014; Emenda ID 40610018; Emenda ID 60040012; Emenda ID 60040014
+Grupo: Recursos destinados à Educação
+	Emenda ID 14080004; Emenda ID 14080007; Emenda ID 14080014; Emenda ID 14080026; Emenda ID 14510007; Emenda ID 25340001; Emenda ID 27780001; Emenda ID 28550004; Emenda ID 26930007; Emenda ID 26930009; Emenda ID 27050006; Emenda ID 37190006; Emenda ID 37250006; Emenda ID 37250007; Emenda ID 39050006; Emenda ID 40610012; Emenda ID 40610014; Emenda ID 40610018; Emenda ID 60040012; Emenda ID 60040014
 
-Grupo: Promoção da Igualdade de Gênero
-	Emenda ID 11970007; Emenda ID 30870008; Emenda ID 40700010; Emenda ID 40700018; Emenda ID 39160014; Emenda ID 39160015; Emenda ID 41300029
+Grupo: Igualdade de gênero e enfrentamento à violência contra a mulher
+	Emenda ID 11970007; Emenda ID 30870007; Emenda ID 40700010; Emenda ID 40700018; Emenda ID 39160014; Emenda ID 39160015; Emenda ID 41300029
 
-Grupo: Valorização do Salário Mínimo
-	Emenda ID 14510004; Emenda ID 14510007; Emenda ID 27190007; Emenda ID 28860011; Emenda ID 28860012; Emenda ID 38860011; Emenda ID 38860012; Emenda ID 39600027; Emenda ID 40910009; Emenda ID 40530026
+Grupo: Valorização do salário mínimo
+	Emenda ID 14510004; Emenda ID 14510007; Emenda ID 27190007; Emenda ID 29090003; Emenda ID 38860011; Emenda ID 38860012; Emenda ID 39600027; Emenda ID 40530004; Emenda ID 40530026; Emenda ID 40910009
 
-Grupo: Ações para Saúde
+Grupo: Ações de saúde
 	Emenda ID 29250011
 
-Grupo: Apoio a Projetos Culturais
-	Emenda ID 39160007; Emenda ID 40390005
-
-Grupo: Diretrizes para Censo Demográfico
-	Emenda ID 41600004; Emenda ID 50370005
-
-Grupo: Apoio a Pessoas com Deficiência e Idosos
+Grupo: Ações de proteção a pessoas com deficiência e idosos
 	Emenda ID 28730019
 
-Grupo: Diretrizes para Ações de Segurança Pública
-	Emenda ID 26700004; Emenda ID 40530004
+Grupo: Diretrizes gerais e propostas orçamentárias
+	Emenda ID 25500001; Emenda ID 26700004; Emenda ID 37020011; Emenda ID 38860013; Emenda ID 39160008; Emenda ID 40390005; Emenda ID 41600004; Emenda ID 41600006; Emenda ID 41630008; Emenda ID 41630009
 
-Grupo: Diretrizes para Ações Sociais
-	Emenda ID 27780001; Emenda ID 39160008
+Grupo: Recursos para ações sociais e culturais
+	Emenda ID 39160007
 

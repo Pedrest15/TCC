@@ -1,5 +1,5 @@
 from routes import RoutesConfig
-from score import CV_Coherence, Score
+from score import Score
 from files import Files
 from chart import create_chart
 
@@ -38,27 +38,42 @@ def main():
     num_article = 21
 
     temps = [0,0.25,0.5,0.75,1]
-    precision = {}
-    recall = {}
-    f1 = {}
 
+    mean_precision = {0:0.0, 0.25:0.0, 0.5:0.0, 0.75:0.0, 1:0.0}
+    mean_recall = {0:0.0, 0.25:0.0, 0.5:0.0, 0.75:0.0, 1:0.0}
+    mean_f1 = {0:0.0, 0.25:0.0, 0.5:0.0, 0.75:0.0, 1:0.0}
+
+    Files.create_score_file(model=model, PL=PL, num_article=num_article, route_id=route)
+
+    for i in range(5):
+        precision = {0:0.0, 0.25:0.0, 0.5:0.0, 0.75:0.0, 1:0.0}
+        recall = {0:0.0, 0.25:0.0, 0.5:0.0, 0.75:0.0, 1:0.0}
+        f1 = {0:0.0, 0.25:0.0, 0.5:0.0, 0.75:0.0, 1:0.0}
+    
+        for temp in temps:
+            groups = RoutesConfig(model=model, pl=PL, article=num_article, route_id=route).execute(temp=temp)
+            
+            p,r,f = Score(pl=PL, article=num_article).execute(groups=groups, route=route)
+
+            precision[temp] = p
+            recall[temp] = r
+            f1[temp] = f
+
+            mean_precision[temp] += p
+            mean_recall[temp] += r
+            mean_f1[temp] += f
+
+        Files.generate_score_file(model=model, PL=PL, num_article=num_article, route_id=route, 
+                                precision=precision, recall=recall, f1=f1, i=i)
     for temp in temps:
-        groups = RoutesConfig(model=model, pl=PL, article=num_article, route_id=route).execute(temp=temp)
-        
-        p,r,f = Score(pl=PL, article=num_article).execute(groups=groups, route=route)
+        mean_precision[temp] /= 5
+        mean_recall[temp] /= 5
+        mean_f1[temp] /= 5
 
-        precision[temp] = p
-        recall[temp] = r
-        f1[temp] = f
 
-    print(precision)
-
-    Files.generate_score_file(model=model, PL=PL, num_article=num_article, route_id=route, 
-                              precision=precision, recall=recall, f1=f1)
-
-    create_chart(pl=PL, article=num_article, data=precision, metric_name='Precision', model=model, color='blue', config=route)
-    create_chart(pl=PL, article=num_article, data=recall, metric_name='Recall', model=model, color='orange', config=route)
-    create_chart(pl=PL, article=num_article, data=f1, metric_name='F1', model=model, color='green', config=route)
+    create_chart(pl=PL, article=num_article, data=mean_precision, metric_name='Precision', model=model, color='blue', config=route)
+    create_chart(pl=PL, article=num_article, data=mean_recall, metric_name='Recall', model=model, color='orange', config=route)
+    create_chart(pl=PL, article=num_article, data=mean_f1, metric_name='F1', model=model, color='green', config=route)
 
 if __name__ == '__main__':
     main()

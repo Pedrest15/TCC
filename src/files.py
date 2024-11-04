@@ -8,6 +8,16 @@ class Files:
         gdown.download(id=id, output=output, quiet=True)
     
         return
+    
+    @staticmethod
+    def create_score_file(model:str,PL:str, num_article:int, route_id:int):
+        with open(f'../agrupamentos/config{route_id}/score/{model}/{PL}_art_{num_article}.txt','w', encoding='utf-8') as f:
+            f.write(f"###############   Scores   ###############\n")
+            f.write(f"==> PL: {PL}.\n")
+            f.write(f"==> Artigo: {num_article}.\n")
+            f.write(f"==> LLM: {model}.\n")
+            f.write(f"==> Config: {route_id}.\n")
+            f.write(f"#########################################################\n")
 
     @staticmethod
     def generate_llm_response_file(model:str,PL:str, num_article:int, execution_time:float, num_tokens:int, llm_response:str,
@@ -34,14 +44,9 @@ class Files:
     
     @staticmethod
     def generate_score_file(model:str,PL:str, num_article:int, route_id:int,
-                            precision:dict, recall:dict, f1:dict):
-        with open(f'../agrupamentos/config{route_id}/score/{model}/{PL}_art_{num_article}.txt','w', encoding='utf-8') as f:
-            f.write(f"###############   Scores   ###############\n")
-            f.write(f"==> PL: {PL}.\n")
-            f.write(f"==> Artigo: {num_article}.\n")
-            f.write(f"==> LLM: {model}.\n")
-            f.write(f"==> Config: {route_id}.\n")
-            f.write(f"#########################################################\n\n")
+                            precision:dict, recall:dict, f1:dict, i:int):
+        with open(f'../agrupamentos/config{route_id}/score/{model}/{PL}_art_{num_article}.txt','a', encoding='utf-8') as f:
+            f.write(f"\nIteração: {i}\n")
 
             f.write(f"Precisão:\n")
             f.write(str(precision))
@@ -52,7 +57,7 @@ class Files:
             f.write("\n\n")
 
             f.write(f"F1:\n")
-            f.write(str(f1))
+            f.write(str(f1)+"\n")
 
         return
     
