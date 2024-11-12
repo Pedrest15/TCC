@@ -1,0 +1,40 @@
+###############   Agrupamento Semântico   ###############
+==>PL: PL-8167-2022.
+==>Artigo: 4.
+==>LLM: gpt-4o.
+==>Total de emendas: 22.
+==>Número de tokens: 6180.
+==>Chain: pydantic_chain.
+==>Tempo de execução: 0.0 min 7 seg.
+#########################################################
+
+Grupo: Investimentos no combate à pandemia e apoio a populações vulneráveis
+	Emenda ID 14080014; Emenda ID 13100002; Emenda ID 27190011
+
+Grupo: Conclusão de obras paralisadas
+	Emenda ID 38050014
+
+Grupo: Enfrentamento à violência contra a mulher
+	Emenda ID 13390009
+
+Grupo: Pesquisa e inovação para enfrentamento da Covid-19
+	Emenda ID 38050004
+
+Grupo: Implementação de renda básica e manutenção de serviços sociais básicos
+	Emenda ID 20230007; Emenda ID 27640023; Emenda ID 37440015; Emenda ID 20230017; Emenda ID 32280003; Emenda ID 26930007; Emenda ID 90320001; Emenda ID 24420056; Emenda ID 26930008
+
+Grupo: Investimentos em primeira infância e ações multissetoriais
+	Emenda ID 38050006; Emenda ID 37020002; Emenda ID 16900005
+
+Grupo: Promoção do futebol feminino
+	Emenda ID 38050008
+
+Grupo: Construção de unidades da Casa Verde-Amarela
+	Emenda ID 71120004
+
+Grupo: Ações relacionadas ao governo digital e segurança alimentar
+	Emenda ID 41780006
+
+Grupo: Cumprimento das metas do Plano Nacional de Educação
+	Emenda ID 41090022
+

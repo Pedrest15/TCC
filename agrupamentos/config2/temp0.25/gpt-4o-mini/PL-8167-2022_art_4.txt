@@ -1,0 +1,31 @@
+###############   Agrupamento Semântico   ###############
+==>PL: PL-8167-2022.
+==>Artigo: 4.
+==>LLM: gpt-4o-mini.
+==>Total de emendas: 22.
+==>Número de tokens: 4293.
+==>Chain: pydantic_chain.
+==>Tempo de execução: 0.0 min 5 seg.
+#########################################################
+
+Grupo: Prioridades e Metas da Administração Pública para 2022
+	Emenda ID 14080014; Emenda ID 38050014; Emenda ID 13100002; Emenda ID 38050004; Emenda ID 38050006; Emenda ID 38050008; Emenda ID 71120004; Emenda ID 27190011; Emenda ID 16900005
+
+Grupo: Combate à Pandemia e Renda Básica
+	Emenda ID 20230007; Emenda ID 27640023; Emenda ID 37440015; Emenda ID 26930007; Emenda ID 90320001; Emenda ID 26930008
+
+Grupo: Ações de Enfrentamento à Violência contra a Mulher
+	Emenda ID 13390009
+
+Grupo: Educação e Metas do Plano Nacional de Educação
+	Emenda ID 41090022
+
+Grupo: Ações de Pesquisa e Inovação
+	Emenda ID 41780006
+
+Grupo: Ações de Segurança Alimentar
+	Emenda ID 41780006
+
+Grupo: Ações voltadas à Primeira Infância
+	Emenda ID 37020002
+

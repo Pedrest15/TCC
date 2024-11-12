@@ -34,8 +34,11 @@ def main():
     route = choose_route()
     model = choose_model()   
 
-    PL = "PL-280-2020"
-    num_article = 21
+    #PL = "PL-280-2020"
+    PL = "PL-8167-2022"
+    
+    #num_article = 21
+    num_article = 4
 
     temps = [0,0.25,0.5,0.75,1]
 
