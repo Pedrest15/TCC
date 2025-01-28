@@ -8,7 +8,7 @@ from nltk.corpus import stopwords
 import spacy
 from spacy.lang.pt.stop_words import STOP_WORDS
 
-from models import Templates, Models, EmbModel
+from models import Templates, Models
 
 #import nltk
 #nltk.download('punkt')

@@ -34,25 +34,3 @@ def compare_llms(pl:str, article:str|int, config:str|int, models:list[str], data
     plt.yticks([i/10 for i in range(0, 11)])
 
     plt.show()
-
-if __name__ == '__main__':
-    ### gpt-4o
-    precision1 = {'0': 0.6474996, '0.25': 0.68858075, '0.5': 0.66569686, '0.75': 0.72508794, '1': 0.7027681}
-    #recall = {'0': 0.6042719, '0.25': 0.58929056, '0.5': 0.57272613, '0.75': 0.6066432, '1': 0.5898588}
-    #f1 = {'0': 0.62445897, '0.25': 0.6345622, '0.5': 0.61485267, '0.75': 0.66031927, '1': 0.6405766}
-
-    #create_chart(pl='PL-280-2020', article=21, data=precision, metric_name='Precision', model='gpt-4o', color='blue', config=2)
-    #create_chart(pl='PL-280-2020', article=21, data=recall, metric_name='Recall', model='gpt-4o', color='orange', config=2)
-    #create_chart(pl='PL-280-2020', article=21, data=f1, metric_name='F1', model='gpt-4o', color='green', config=2)
-
-    ### gpt-4o-mini
-    precision2 = {'0': '0.6895773', '0.25': '0.7042364', '0.5': '0.6703024', '0.75': '0.67977405', '1': '0.70372677'}
-    recall = {'0': '0.5672793', '0.25': '0.57350147', '0.5': '0.56349', '0.75': '0.5742512', '1': '0.5770151'}
-    f1 = {'0': '0.6216754', '0.25': '0.6313098', '0.5': '0.6112579', '0.75': '0.6216759', '1': '0.633723'}
-
-    #create_chart(pl='PL-280-2020', article=21, data=precision, metric_name='Precision', model='gpt-4o-mini', color='blue', config=2)
-    #create_chart(pl='PL-280-2020', article=21, data=recall, metric_name='Recall', model='gpt-4o-mini', color='orange', config=2)
-    #create_chart(pl='PL-280-2020', article=21, data=f1, metric_name='F1', model='gpt-4o-mini', color='green', config=2)
-
-    compare_llms(pl='PL-280-2020', article=21, metric_name='Precision', config=2, models=['gpt-4o','gpt-4o-mini'], data1=precision1,
-                 data2=precision2, colors=['blue', 'red'])

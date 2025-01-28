@@ -1,14 +1,7 @@
-from math import log
 import numpy as np
-from scipy.spatial.distance import cosine
-from sklearn.feature_extraction.text import CountVectorizer
-from itertools import combinations
-from transformers import BertTokenizer, BertModel
 from bert_score import BERTScorer
 
 from amendments import Amendments
-from models import EmbModel
-from summarizing import Text
  
 class Score:
     
@@ -60,14 +53,3 @@ class Score:
         print(np.array(self.precision).mean())
 
         return np.array(self.precision).mean(), np.array(self.recall).mean(), np.array(self.f1).mean()
-
-
-
-if __name__ == '__main__':
-    pl = "PL-280-2020"
-    article = 21
-    arq_name = f"../arqs_base/emendas_{pl}_artigo{article}"
-    a = Amendments(pl=pl, article=article, arq_name=arq_name)
-
-    x = a.get_amendment(id="28050004", route=2)
-    print(x)
