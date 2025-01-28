@@ -1,5 +1,7 @@
 # Agrupamento Semântico no Contexto de Emendas Legislativas
 
+<div align="justify" >
+
 ## Resumo
 
 Este trabalho explora a realização de agrupamento semântico de emendas legislativas brasileiras por meio de Large Language Models. Considerando o número elevado de emendas redigidas anualmente na Câmara dos Deputados Federal e no Senado Federal e a consequente carga horária massiva despendida pelas equipes responsáveis por agrupar tais documentos, o uso de técnicas automatizadas para análise e organização eficientes apresenta-se como uma alternativa benéfica às casas legislativas. A partir dos modelos GPT-4o e GPT-4o-mini da OpenAI, realizaramse experimentos visando agrupar emendas conforme sua similaridade semântica. O estudo comparou abordagens com e sem pré-processamento textual, variando o valor da temperatura do modelo para avaliar o impacto deste parâmetro sobre a qualidade do resultado final. Como forma de validar a eficácia dos grupos formados, as métricas de precisão, recall e F1 foram aplicadas. Constatou-se que o modelo GPT-4o apresentou desempenho superior, sobretudo com temperaturas inferiores. Não obstante, este estudo foi limitado pelos custos de infraestrutura e a propensão dos modelos a alucinarem durante sua execução. Os resultados obtidos indicam potencial dos modelos em auxiliar a tarefa de agrupar emendas, oferecendo subsídios para futuras melhorias no uso de Inteligência Artificial no contexto legislativo brasileiro.
